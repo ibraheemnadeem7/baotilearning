@@ -1,2 +1,2 @@
 # baotilearning
-Online learning platform through Ruby on Rails
+Online learning platform through Ruby on Rails lol
